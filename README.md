@@ -10,4 +10,6 @@ My name is Khang Le. I am a Fourth-year student at Ho Chi Minh City University o
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color&theme=dracula&cache_seconds=60" />
 </a>
 
-
+<a href="https://github.com/khangle2101/Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV&theme=dark&cache_seconds=60" />
+</a>
