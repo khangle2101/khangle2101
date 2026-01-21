@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Khang Le. I am a Fourth-year student at Ho Chi Minh City University of Technology and Education. I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision and Robotics.<br>
+My name is Khang Le. I am an Automation and Control Engineering Technology engineer (Ho Chi Minh City University of Technology and Engineering). I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision and Robotics.<br>
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khangle2101/) [![Youtube](https://github.com/khangle2101/introduction/blob/main/Youtube.png)](https://youtube.com/@hoangkhangle-uk6fj?si=zQQC2pu4hF5mEKQ0)
@@ -15,5 +15,9 @@ My name is Khang Le. I am a Fourth-year student at Ho Chi Minh City University o
 </a>
 
 <a href="https://github.com/khangle2101/Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision&theme=highcontrast&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision&theme=cobalt&cache_seconds=60" />
+</a>
+
+<a href="https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Fire-Smoke-Detection-Drone&theme=highcontrast&cache_seconds=60" />
 </a>
