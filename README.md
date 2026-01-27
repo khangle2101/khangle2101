@@ -10,6 +10,10 @@ My name is Khang Le. I am an Automation and Control Engineering Technology engin
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color&theme=dracula&cache_seconds=60" />
 </a>
 
+<a href="https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Fire-Smoke-Detection-Drone&theme=highcontrast&cache_seconds=60" />
+</a>
+
 <a href="https://github.com/khangle2101/Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV&theme=dark&cache_seconds=60" />
 </a>
@@ -18,6 +22,3 @@ My name is Khang Le. I am an Automation and Control Engineering Technology engin
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision&theme=cobalt&cache_seconds=60" />
 </a>
 
-<a href="https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Fire-Smoke-Detection-Drone&theme=highcontrast&cache_seconds=60" />
-</a>
