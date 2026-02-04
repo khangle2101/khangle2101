@@ -56,33 +56,3 @@ Repo: https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone
 
 Repo: https://github.com/khangle2101/Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color
 
-## Selected CV Projects
-
-1) Real-Time Forest Fire & Smoke Detection Drone (YOLOv11 + TensorRT, Jetson Nano)
-
-- Two-stage cascaded detection: smoke early warning -> fire confirmation
-- Real-time streaming (RTSP/MJPEG) + Web GCS + MAVLink control (auto LOITER)
-- Telegram alerts with snapshots + geo-tagged location
-
-Repo: https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone
-
-2) Vehicle Tracking & Counting (YOLOv8 + Supervision)
-
-- Object detection + multi-object tracking pipeline
-- Counting logic and visualization overlays
-
-Repo: https://github.com/khangle2101/Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision
-
-3) Real-Time Traffic Signs Classification (CNN + OpenCV)
-
-- Traffic sign classification with a real-time webcam/OpenCV pipeline
-
-Repo: https://github.com/khangle2101/Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV
-
-4) SCARA 3-DOF Robot Arm - Color Sorting (Vision + Kinematics)
-
-- HSV segmentation + calibration (pixel -> mm) for pick coordinates
-- MATLAB kinematics + Arduino stepper control
-
-Repo: https://github.com/khangle2101/Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color
-
