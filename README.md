@@ -1,24 +1,85 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Khang Le. I am an Automation and Control Engineering Technology engineer (Ho Chi Minh City University of Technology and Engineering). I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision and Robotics.<br>
-## 📫 How to reach me: 
+## Le Hoang Khang
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khangle2101/) [![Youtube](https://github.com/khangle2101/introduction/blob/main/Youtube.png)](https://youtube.com/@hoangkhangle-uk6fj?si=zQQC2pu4hF5mEKQ0)
+AI / Computer Vision / Robotics - building end-to-end systems from perception to deployment.
 
-![Khang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khangle2101&show_icons=true&theme=tokyonight&hide=contribs,prs,issues&cache_seconds=60)
+B.Eng. - Automation & Control Engineering Technology (HCMUTE).
+
+<p>
+  <a href="https://github.com/khangle2101">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-khangle2101-111?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://youtube.com/@hoangkhangle-uk6fj?si=zQQC2pu4hF5mEKQ0">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Demos-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
+  <a href="mailto:khanglehoang.work@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-khanglehoang.work%40gmail.com-0B7285?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+### Focus
+
+- Edge AI (Jetson) + real-time CV
+- Robotics systems (vision + motion + control)
+- Practical deployment: streaming, APIs, telemetry, alerts
+
+### Tech Stack
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+## Featured Projects
+
+### Real-Time Forest Fire & Smoke Detection Drone (Edge AI + MAVLink)
+
+- Two-stage cascaded detection (smoke -> fire confirmation) to reduce false positives
+- Jetson Nano deployment with TensorRT FP16; RTSP/MJPEG streaming
+- Data fusion: detections + Pixhawk telemetry for geo-tagged alerts
+- Auto LOITER on smoke detection + Telegram alerts
+
+Repo: https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone
+
+### SCARA 3-DOF Robot Arm - Color Sorting (Vision + Kinematics)
+
+- HSV segmentation + calibration (pixel -> mm) for pick coordinates
+- MATLAB forward/inverse kinematics, Arduino stepper control
+- Includes Unknown rejection case (markings/ink) to avoid misclassification
+
+Repo: https://github.com/khangle2101/Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color
+
+## Pinned
+
+<a href="https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Fire-Smoke-Detection-Drone&theme=tokyonight&cache_seconds=60" />
+</a>
 
 <a href="https://github.com/khangle2101/Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color&theme=dracula&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangle2101&repo=Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color&theme=tokyonight&cache_seconds=60" />
+</a>
+
+<br/>
+
+<a href="https://github.com/khangle2101/Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangle2101&repo=Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision&theme=tokyonight&cache_seconds=60" />
 </a>
 
 <a href="https://github.com/khangle2101/Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV&theme=dark&cache_seconds=60" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV&theme=tokyonight&cache_seconds=60" />
 </a>
 
-<a href="https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Fire-Smoke-Detection-Drone&theme=highcontrast&cache_seconds=60" />
-</a>
+## GitHub Stats
 
-<a href="https://github.com/khangle2101/Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khangle2101&repo=Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision&theme=cobalt&cache_seconds=60" />
-</a>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khangle2101&show_icons=true&theme=tokyonight&hide=issues&cache_seconds=60" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangle2101&layout=compact&theme=tokyonight&cache_seconds=60" />
+</p>
 
