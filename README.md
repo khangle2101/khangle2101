@@ -1,6 +1,6 @@
 ## Le Hoang Khang
 
-AI / Computer Vision / Robotics - building end-to-end systems from perception to deployment.
+Deep Learning for Computer Vision - building end-to-end systems from perception to deployment.
 
 B.Eng. - Automation & Control Engineering Technology (HCMUTE).
 
@@ -56,30 +56,33 @@ Repo: https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone
 
 Repo: https://github.com/khangle2101/Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color
 
-## Pinned
+## Selected CV Projects
 
-<a href="https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Fire-Smoke-Detection-Drone&theme=tokyonight&cache_seconds=60" />
-</a>
+1) Real-Time Forest Fire & Smoke Detection Drone (YOLOv11 + TensorRT, Jetson Nano)
 
-<a href="https://github.com/khangle2101/Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangle2101&repo=Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color&theme=tokyonight&cache_seconds=60" />
-</a>
+- Two-stage cascaded detection: smoke early warning -> fire confirmation
+- Real-time streaming (RTSP/MJPEG) + Web GCS + MAVLink control (auto LOITER)
+- Telegram alerts with snapshots + geo-tagged location
 
-<br/>
+Repo: https://github.com/khangle2101/Real-Time-Fire-Smoke-Detection-Drone
 
-<a href="https://github.com/khangle2101/Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangle2101&repo=Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision&theme=tokyonight&cache_seconds=60" />
-</a>
+2) Vehicle Tracking & Counting (YOLOv8 + Supervision)
 
-<a href="https://github.com/khangle2101/Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khangle2101&repo=Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV&theme=tokyonight&cache_seconds=60" />
-</a>
+- Object detection + multi-object tracking pipeline
+- Counting logic and visualization overlays
 
-## GitHub Stats
+Repo: https://github.com/khangle2101/Vehicle-Tracking-and-Counting-with-YOLOv8-and-Supervision
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khangle2101&show_icons=true&theme=tokyonight&hide=issues&cache_seconds=60" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangle2101&layout=compact&theme=tokyonight&cache_seconds=60" />
-</p>
+3) Real-Time Traffic Signs Classification (CNN + OpenCV)
+
+- Traffic sign classification with a real-time webcam/OpenCV pipeline
+
+Repo: https://github.com/khangle2101/Real-Time-Traffic-Signs-Classification-using-CNN-OpenCV
+
+4) SCARA 3-DOF Robot Arm - Color Sorting (Vision + Kinematics)
+
+- HSV segmentation + calibration (pixel -> mm) for pick coordinates
+- MATLAB kinematics + Arduino stepper control
+
+Repo: https://github.com/khangle2101/Application-of-Image-Processing-and-3-DOF-SCARA-Robotic-Arm-in-Object-Classification-Based-on-Color
 
